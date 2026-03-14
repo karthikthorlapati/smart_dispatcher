@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LLM-Powered Prompt Router for Intent Classification
 
 ## Project Overview
@@ -43,3 +44,6 @@ This architecture ensures high-quality, specialized responses while keeping cost
 ### Running with Docker (Recommended)
 ```bash
 docker-compose up --build
+=======
+# smart_dispatcher
+>>>>>>> 9025f90afc8562debd7acea2f59b5114b4522e3d
